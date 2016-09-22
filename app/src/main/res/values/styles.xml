@@ -21,7 +21,7 @@
     </style>
 
     <style name="FullscreenActionBarStyle">
-        <!--日后研究下 actionBar的背景颜色 为什么修改无效      -->
+        <!--日后研究下 actionBar的背景颜色 为什么修改无效  -->
         <item name="android:background">@color/colorBlack</item>
     </style>
 
